@@ -1,0 +1,15 @@
+Tag:
+
+--> Tags are the starting and ending parts of an HTML element and begin with < symbol and end with > symbol.
+
+For Example: <b>  opening tag
+             </b> closing tag
+
+
+Elements:
+
+--> Elements enclose the contents in between the tags. 
+--> It consist of some kind of structure or expression. 
+--> It generally consists of a start tag, content and an end tag.
+
+For Example: <b>This is the element.</b>

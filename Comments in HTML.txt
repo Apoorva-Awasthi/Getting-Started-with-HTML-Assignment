@@ -1,0 +1,8 @@
+Comments in HTML: 
+
+--> We use comments to explain our code and improve readability.
+--> It is not displayed in the browser.
+
+For Example: 
+
+<!--This is a comment example-->

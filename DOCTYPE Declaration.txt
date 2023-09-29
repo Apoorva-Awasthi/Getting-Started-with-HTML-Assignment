@@ -1,0 +1,8 @@
+DOCTYPE Declaration:
+
+--> DOCTYPE is the first line of code required in every HTML document.
+--> It is an instruction to the web browser about what version of HTML the page is written in.
+--> HTML5 doctype declaration exists to tell the browser to render the document.
+
+For Example: <!DOCTYPE html>
+
