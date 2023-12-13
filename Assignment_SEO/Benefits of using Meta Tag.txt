@@ -1,0 +1,11 @@
+Benefits of using Meta Tag:
+
+--> Meta tags provides relevancy: The more our page is viewed by people who visit the page and the more the page is referenced on other online platforms, the more authority page will have.
+
+--> Save time without writing too much: These are simple and to the point.
+
+--> They optimise your site without making things untidy: All the metadata is added on the backend of your website. Readers will not have to read through the meta tags to find the content that they want.
+
+--> They can be quickly implemented 
+
+--> They allow you to track your metrics better

@@ -1,0 +1,12 @@
+SEO(Search Engine Optimization):
+
+--> It is the practice of optimizing a website so that it ranks well on search engines.
+--> SEO web design is the design and creation of a website that is optimized for search engines.
+
+Importance of SEO:
+
+--> SEO web design improves the user experience. Ensures that it is easy for a visitor to navigate, so they can find the information they’re looking for.
+--> Readability. Big, bold serif, or sans serif fonts should be used throughout the website, its headers, and its copy blocks to ensure it’s easy to read.
+--> Website navigation. Using a content hierarchy, cross-linking between pages.
+--> Metadata and Indexable content
+
